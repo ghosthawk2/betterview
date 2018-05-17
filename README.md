@@ -1,0 +1,2 @@
+# betterview
+GitHub Pages
